@@ -56,12 +56,13 @@ export default class extends React.Component {
                         <a style={{
                             textAlign: 'center',
                             margin: 20,
-                        }} href="/static/spotifyxgenius.zip">Download v0.1 beta for macOS</a>
-                        <p style={{ textAlign: 'center', fontSize: 10 }}>
-                        this is a beta release to see if there is demand<br />
-                        send feature requests to hery at ratsimihah dot com<br />
-                        i can open source the code upon request<br />
-                        please don't sue me about the name, i'm broke and can't afford court
+                        }} href="/static/spotifyxgenius.zip">download v0.1 beta for macOS</a>
+                        <p style={{ textAlign: 'justify', fontSize: 10, maxWidth: 300, alignSelf: 'center' }}>
+                        this is a beta release to see if there is demand
+                        send feature requests to hery at ratsimihah dot com
+                        i can open source the code upon request
+                        please don't sue me about the name i'm broke and can't afford court
+                        no i don't know about punctuation and case how's your day been
                         </p>
                     </div>
                 </div>
