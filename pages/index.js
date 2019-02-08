@@ -56,7 +56,7 @@ export default class extends React.Component {
                         <a style={{
                             textAlign: 'center',
                             margin: 20,
-                        }} href="/static/spotifyxgenius.zip">Download v0.1 beta</a>
+                        }} href="/static/spotifyxgenius.zip">Download v0.1 beta for macOS</a>
                         <p style={{ textAlign: 'center', fontSize: 10 }}>
                         this is a beta release to see if there is demand<br />
                         send feature requests to hery at ratsimihah dot com<br />
